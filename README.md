@@ -1,1 +1,1 @@
-# Draw Mind UI
+# Reader app
